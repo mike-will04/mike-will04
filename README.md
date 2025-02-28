@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mike Will
+# Mike Will
 
 **`Desevolvedor Full-Stack`**
 
