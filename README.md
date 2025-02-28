@@ -107,7 +107,7 @@ Me chamo Mike Will Bento do Rego, tenho 17 anos e sou natural de São Paulo. Con
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-will04&theme=tokyonight&layout=donut&custom_title=Tecnologias&hide=scss,shell" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-will04&theme=tokyonight&layout=donut&custom_title=Linguagens&hide=scss,shell" 
   />
 
 </p>
